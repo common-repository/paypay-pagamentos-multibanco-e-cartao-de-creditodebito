@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-28 20:46+0100\n"
+"PO-Revision-Date: 2022-08-26 12:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ../../../xampp/htdocs/paypay-wp/wp-content/plugins/paypay\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: class-wc-paypay.php\n"
+"X-Poedit-SearchPath-1: class-wc-paypay-gateway.php\n"
+
+#: class-wc-paypay-gateway.php:29
+msgid "Settings"
+msgstr "Configurações"
+
+#: class-wc-paypay.php:15 class-wc-paypay.php:17
+msgid "ATM and Credit/Debit Card (Paypay)"
+msgstr "Multibanco e Cartão de Crédito/Débito (Paypay)"
+
+#: class-wc-paypay.php:16
+msgid "ATM and Credit/Debit Card (Paypay) Plug-in for WooCommerce"
+msgstr "Multibanco e Cartão de Crédito/Débito (Paypay) Plug-in para WooCommerce"
+
+#: class-wc-paypay.php:241
+msgid "Your credentials are not correct. Please, insert the correct credentials and try again."
+msgstr "As suas credenciais estão erradas. Por favor insira as credenciais correctas e tente novamente."
+
+#: class-wc-paypay.php:253
+msgid "No payment was processed."
+msgstr "Não foi processado nenhum pagamento."
+
+#: class-wc-paypay.php:255
+msgid "Some payments were processed."
+msgstr "Foram processados %s pagamentos."
+
+#: class-wc-paypay.php:118 class-wc-paypay.php:149 class-wc-paypay.php:180 class-wc-paypay.php:429 class-wc-paypay.php:505
+msgid "Processing"
+msgstr "A processar"
+
+#: class-wc-paypay.php:573
+msgid "Activate / Deactivate"
+msgstr "Ativar / Desativar"
+
+#: class-wc-paypay.php:574
+msgid "Activates the payment gateway"
+msgstr "Ativa a gateway de pagamento"
+
+#: class-wc-paypay.php:579
+msgid "Title"
+msgstr "Titulo"
+
+#: class-wc-paypay.php:581
+msgid "Title which the user you see during checkout."
+msgstr "Titulo que o cliente irá visualizar durante o checkout."
+
+#: class-wc-paypay.php:582
+msgid "ATM and Credit/Debit Card"
+msgstr "Multibanco e Cartão de Crédito/Débito"
+
+#: class-wc-paypay.php:585
+msgid "Description"
+msgstr "Descrição"
+
+#: class-wc-paypay.php:587
+msgid "Description which the user you see during checkout."
+msgstr "Descrição do método de pagamento que o utilizador irá visualizar no checkout."
+
+#: class-wc-paypay.php:588
+msgid "Choose your payment method:"
+msgstr "Escolha o seu método de pagamento:"
+
+#: class-wc-paypay.php:592
+msgid "NIF"
+msgstr "NIF"
+
+#: class-wc-paypay.php:594
+msgid "NIF that is associated to you Paypay account."
+msgstr "NIF associado à sua conta no Paypay."
+
+#: class-wc-paypay.php:599
+msgid "Platform Code"
+msgstr "Código de Plataforma"
+
+#: class-wc-paypay.php:601
+msgid "Platform Code that should be requested from the Paypay support team."
+msgstr "Código de Plataforma que deverá ser pedido à equipa de apoio do Paypay."
+
+#: class-wc-paypay.php:606
+msgid "Encription Key"
+msgstr "Chave de encriptação"
+
+#: class-wc-paypay.php:608
+msgid "Encription Key that should be requested from the Paypay support team."
+msgstr "Chave que deverá ser pedida à equipa de apoio do Paypay."
+
+#: class-wc-paypay.php:612
+msgid "Environment"
+msgstr "Ambiente"
+
+#: class-wc-paypay.php:614
+msgid "Environment that should be used."
+msgstr "Ambiente que deseja utilizar."
+
+#: class-wc-paypay.php:617
+msgid "Test"
+msgstr "Teste"
+
+#: class-wc-paypay.php:618
+msgid "Production"
+msgstr "Produção"
+
+#: class-wc-paypay.php:635
+msgid "Awaiting Payment"
+msgstr "Aguarda Pagamento"
+
+#: class-wc-paypay.php:670
+msgid "You can use the following information to pay your order in an ATM."
+msgstr "Poderá utilizar a informação abaixo para pagar a sua encomenda numa caixa multibanco."
+
+#: class-wc-paypay.php:674
+msgid "Entity:"
+msgstr "Entidade:"
+
+#: class-wc-paypay.php:678
+msgid "Reference:"
+msgstr "Referência:"
+
+#: class-wc-paypay.php:682
+msgid "Amount:"
+msgstr "Valor:"
+
+#: class-wc-paypay.php:688
+msgid "Click"
+msgstr "Clique"
+
+#: class-wc-paypay.php:688
+msgid "here"
+msgstr "aqui"
+
+#: class-wc-paypay.php:688
+msgid "to pay your order."
+msgstr "para pagar a sua encomenda."
+
+#: class-wc-paypay.php:704
+msgid "Thank you for your payment. Your order will be processed as soon as possible."
+msgstr "Obrigado pelo seu pagamento. A sua encomenda será processada assim que possível."
+
+#: class-wc-paypay.php:709
+msgid "Your order was cancelled. Please, contact the store owner."
+msgstr "A sua encomenda foi cancelada. Por favor contacte o administrador da loja."
+
+#: class-wc-paypay.php:812
+msgid "Unpaid order cancelled – time limit reached."
+msgstr "Encomenda cancelada por falta de pagamento – tempo limite excedido."
+
+#: class-wc-paypay.php:911
+#, php-format
+msgid ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL certificate on your checkout page. Please ensure that you have a valid SSL certificate "
+"and that you are <a href=\"%s\">forcing the checkout pages to be secured.</a>"
+msgstr ""
+"<strong>%s</strong> está activado e o WooCommerce não está a forçar o certificado SSL no seu checkout. Por favor, tenha a certeza que tem um certificado SSL e "
+"que está <a href=\"%s\">a forçar que as páginas de checkout são seguras.</a>"
+
+msgid "Payment details"
+msgstr "Detalhes do pagamento"
+
+msgid "NIF cannot be empty"
+msgstr "O NIF é obrigatório"
+
+msgid "NIF is not valid"
+msgstr "O NIF não é válido"
+
+msgid "Platform Code cannot be empty"
+msgstr "O Código da plataforma é obrigatório"
+
+msgid "Encryption Key cannot be empty"
+msgstr "A Chave de Encriptação é obrigatória"
+
+msgid "PayPay Plug-in for WooCommerce"
+msgstr "Plugin da PayPay para WooCommerce"
+
+msgid "Payment cancelled by customer. "
+msgstr "Pagamento cancelado pelo cliente. "
+
+msgid "Expiration date"
+msgstr "Data limite de pagamento"
+
+msgid "%1$s at %2$s"
+msgstr "%1$s às %2$s"
+
+msgid "Order payment has been cancelled. "
+msgstr "<div id=\"message\" class=\"notice inline notice-warning\"><p><strong>O pagamento da encomenda %s foi cancelado. </strong></p></div>"
+
+msgid "Order payment has been confirmed. "
+msgstr "<div id=\"message\" class=\"updated inline\"><p><strong>O pagamento da encomenda %s foi confirmado. </strong></p></div>"
+
+msgid "Order payment is pending. "
+msgstr "<div id=\"message\" class=\"notice inline notice-info\"><p><strong>O pagamento da encomenda %s está pendente. </strong></p></div>"
+
+msgid "Payment was not found. "
+msgstr "O pagamento %s não foi encontrado. "
+
+msgid "Payment amount differs from order. "
+msgstr "O montante do pagamento %s difere da encomenda %s. "
+
+msgid "Force update?"
+msgstr "Forçar atualização?"
+
+msgid "Update pending payments"
+msgstr "Atualizar pagamentos pendentes"
+
+msgid "Use when order status has not updated automatically."
+msgstr "Utilizar quando o estado da encomenda não atualizou de forma automática."
+
+msgid "Order admin anchor link. "
+msgstr "<a href=\"%s\" >%s</a>"
+
+msgid "At."
+msgstr "até"
